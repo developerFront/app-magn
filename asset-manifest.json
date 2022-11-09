@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/app-magn/static/css/main.3a956338.css",
+    "main.js": "/app-magn/static/js/main.f3012afd.js",
+    "index.html": "/app-magn/index.html",
+    "main.3a956338.css.map": "/app-magn/static/css/main.3a956338.css.map",
+    "main.f3012afd.js.map": "/app-magn/static/js/main.f3012afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a956338.css",
+    "static/js/main.f3012afd.js"
+  ]
+}
